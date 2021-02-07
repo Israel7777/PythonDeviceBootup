@@ -1,2 +1,2 @@
-# PythonDeviceBootup
-Automation python script to restart the android device  [ Combination of Python and adb Commands ]
+# PythonAndroidDeviceScript
+Automation python script for android device  [ Combination of Python and adb Commands ]
